@@ -119,8 +119,6 @@ ggplot() +
 
 This notebook provides a hands-on introduction to the process of manually calibrating an SIR model. By adjusting the parameters \(\beta\) and \(\gamma\), you can learn how to fit the model to real-world data and understand the dynamics of infectious disease spread.
 
-For further exploration, consider automating the calibration process using optimization techniques, which will be covered in later exercises.
 
 ---
 
-Feel free to contribute or suggest improvements to this notebook by opening an issue or pull request on GitHub.
